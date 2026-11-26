@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "batches": [
+    {
+      "id": "online-2026-11-26",
+      "source": "线上 TTS 用例人工筛选与精简",
+      "selection_version": 3,
+      "selected": 56,
+      "discarded": 47,
+      "by_language": {
+        "en": 53,
+        "mul": 3
+      }
+    }
+  ]
+}
